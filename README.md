@@ -1,2 +1,3 @@
-# goworkspace
-golang udemy class
+# Udemy Training
+golang udemy classwork
+
